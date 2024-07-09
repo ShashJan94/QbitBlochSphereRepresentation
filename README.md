@@ -87,5 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Quantum Computing concepts based on materials from [Qiskit](https://qiskit.org/) and other educational resources.
-- Visualization inspired by various quantum computing visual tools and examples.
 
